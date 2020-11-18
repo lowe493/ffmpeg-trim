@@ -17,4 +17,4 @@ You can change the trim ammount by editing -ss hh:mm:ss to the desired time e.g
 3. Right Click on the TrimEnd.PS1 file and select 'Run with powershell'
 4. Videos will be trimmed into the output folder
 
-You can change the trim amount by editing the $trim variable desired time in minutes
+You can change the trim amount by editing the $trim variable desired time in seconds
